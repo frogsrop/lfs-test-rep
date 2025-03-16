@@ -4,15 +4,15 @@
 *.cginc text
 *.shader text
 
-*.mat merge=unityyamlmerge eol=lf
-*.anim merge=unityyamlmerge eol=lf
+*.mat merge=unityyamlmerge eol=lf linguist-generated=true
+*.anim merge=unityyamlmerge eol=lf linguist-generated=true
 *.unity merge=unityyamlmerge eol=lf linguist-generated=true
-*.prefab merge=unityyamlmerge eol=lf
-*.physicsMaterial2D merge=unityyamlmerge eol=lf
-*.physicMaterial merge=unityyamlmerge eol=lf
-*.asset merge=unityyamlmerge eol=lf
-*.meta merge=unityyamlmerge eol=lf
-*.controller merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf linguist-generated=true
+*.physicsMaterial2D merge=unityyamlmerge eol=lf linguist-generated=true
+*.physicMaterial merge=unityyamlmerge eol=lf linguist-generated=true
+*.asset merge=unityyamlmerge eol=lf linguist-generated=true
+*.meta merge=unityyamlmerge eol=lf linguist-generated=true
+*.controller merge=unityyamlmerge eol=lf linguist-generated=true
 
 
 ## git-lfs ##
